@@ -14,6 +14,7 @@ def main():
         count=1
         a=int(input("Enter the element" ))
         print("The",count,"element is",a)
+        
 
         numbers.append(a)
         count+=1
